@@ -1,0 +1,7 @@
+text:
+  network-name: MineHQ
+  network-website: minehq.com
+APIHost: N/A
+APIKey: N/A
+2FARequired: true
+AllowBannedJoins: false

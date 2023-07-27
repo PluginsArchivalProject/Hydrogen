@@ -1,0 +1,5 @@
+name: Hydrogen
+version: ${git.commit.id.abbrev}
+author: MineHQ Development Team
+main: net.frozenorb.hydrogen.Hydrogen
+depend: [ qLib ]
